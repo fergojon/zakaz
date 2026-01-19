@@ -4,4 +4,6 @@ SQLAlchemy==2.0.20
 alembic==1.11.2
 python-dotenv==1.0.0
 pydantic>=2.4.1,<2.6
-pydantic-settings==2.3.0
+pydantic-settings==2.2.1
+aiofiles~=23.2.1
+aiohttp~=3.9.0
